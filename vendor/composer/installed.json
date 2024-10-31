@@ -1,0 +1,68 @@
+{
+    "packages": [
+        {
+            "name": "as247/wp-eloquent",
+            "version": "v2.0",
+            "version_normalized": "2.0.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/as247/wp-eloquent.git",
+                "reference": "63505eb9eed5d5064e1eec4cedc53d9fecf42906"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/as247/wp-eloquent/zipball/63505eb9eed5d5064e1eec4cedc53d9fecf42906",
+                "reference": "63505eb9eed5d5064e1eec4cedc53d9fecf42906",
+                "shasum": ""
+            },
+            "require": {
+                "ext-json": "*",
+                "ext-pdo": "*",
+                "php": "^7.3"
+            },
+            "suggest": {
+                "doctrine/dbal": "Required to rename columns and drop SQLite columns (^2.6).",
+                "fzaninotto/faker": "Required to use the eloquent factory builder (^1.9.1).",
+                "symfony/finder": "Required to use Eloquent model factories (^5.1)."
+            },
+            "time": "2021-09-17T08:00:16+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "As247\\WpEloquent\\": "src"
+                },
+                "files": [
+                    "src/Support/helpers.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "As247",
+                    "email": "as247@vui360.com"
+                }
+            ],
+            "description": "Eloquent ORM for wordpress.",
+            "homepage": "https://github.com/as247/wp-eloquent",
+            "keywords": [
+                "as247",
+                "database",
+                "laravel",
+                "orm",
+                "sql",
+                "wp-eloquent"
+            ],
+            "support": {
+                "issues": "https://github.com/as247/wp-eloquent/issues",
+                "source": "https://github.com/as247/wp-eloquent"
+            },
+            "install-path": "../as247/wp-eloquent"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}

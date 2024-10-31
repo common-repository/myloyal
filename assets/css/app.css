@@ -1,0 +1,478 @@
+#myloyal-app .flex {
+  display: flex;
+}
+
+#myloyal-app .flx-row {
+  flex-direction: row;
+}
+
+#myloyal-app .flx-col {
+  flex-direction: column;
+}
+
+#myloyal-app .w-100 {
+  width: 100%;
+}
+
+#myloyal-app .table {
+  width: 100%;
+  text-align: center;
+}
+
+#myloyal-app .table td,
+#myloyal-app .table th {
+  border: 1px solid #cccccc;
+  padding: 10px 0;
+}
+
+#myloyal-app .btn {
+  border: 1px solid #bbbbbb;
+  border-radius: 5px;
+  padding: 5px 10px;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+#myloyal-app .btn-success {
+  background: #10B981;
+}
+
+#myloyal-app .btn-danger {
+  background: #b12720;
+}
+
+#myloyal-app .btn-info {
+  background: #138496;
+}
+
+#myloyal-app .btn-warning {
+  background: #E0A800;
+}
+
+#myloyal-app .active {
+  background: #1b3587;
+}
+
+#myloyal-app .oh {
+  overflow: hidden;
+}
+
+#myloyal-app .fl {
+  float: left;
+}
+
+#myloyal-app .fr {
+  float: right;
+}
+
+#myloyal-app .dib {
+  display: inline-block;
+}
+
+#myloyal-app .p-1 {
+  padding: 1px;
+}
+
+#myloyal-app .pr-1 {
+  padding-right: 1px;
+}
+
+#myloyal-app .pl-1 {
+  padding-left: 1px;
+}
+
+#myloyal-app .pt-1 {
+  padding-top: 1px;
+}
+
+#myloyal-app .pb-1 {
+  padding-bottom: 1px;
+}
+
+#myloyal-app .m-1 {
+  margin: 1px;
+}
+
+#myloyal-app .mr-1 {
+  margin-right: 1px;
+}
+
+#myloyal-app .ml-1 {
+  margin-left: 1px;
+}
+
+#myloyal-app .mt-1 {
+  margin-top: 1px;
+}
+
+#myloyal-app .mb-1 {
+  margin-bottom: 1px;
+}
+
+#myloyal-app .br-1 {
+  border-radius: 1px;
+}
+
+#myloyal-app .bw-1 {
+  border-width: 1px;
+  border-style: solid;
+}
+
+#myloyal-app .p-5 {
+  padding: 5px;
+}
+
+#myloyal-app .pr-5 {
+  padding-right: 5px;
+}
+
+#myloyal-app .pl-5 {
+  padding-left: 5px;
+}
+
+#myloyal-app .pt-5 {
+  padding-top: 5px;
+}
+
+#myloyal-app .pb-5 {
+  padding-bottom: 5px;
+}
+
+#myloyal-app .m-5 {
+  margin: 5px;
+}
+
+#myloyal-app .mr-5 {
+  margin-right: 5px;
+}
+
+#myloyal-app .ml-5 {
+  margin-left: 5px;
+}
+
+#myloyal-app .mt-5 {
+  margin-top: 5px;
+}
+
+#myloyal-app .mb-5 {
+  margin-bottom: 5px;
+}
+
+#myloyal-app .br-5 {
+  border-radius: 5px;
+}
+
+#myloyal-app .bw-5 {
+  border-width: 5px;
+  border-style: solid;
+}
+
+#myloyal-app .p-10 {
+  padding: 10px;
+}
+
+#myloyal-app .pr-10 {
+  padding-right: 10px;
+}
+
+#myloyal-app .pl-10 {
+  padding-left: 10px;
+}
+
+#myloyal-app .pt-10 {
+  padding-top: 10px;
+}
+
+#myloyal-app .pb-10 {
+  padding-bottom: 10px;
+}
+
+#myloyal-app .m-10 {
+  margin: 10px;
+}
+
+#myloyal-app .mr-10 {
+  margin-right: 10px;
+}
+
+#myloyal-app .ml-10 {
+  margin-left: 10px;
+}
+
+#myloyal-app .mt-10 {
+  margin-top: 10px;
+}
+
+#myloyal-app .mb-10 {
+  margin-bottom: 10px;
+}
+
+#myloyal-app .br-10 {
+  border-radius: 10px;
+}
+
+#myloyal-app .bw-10 {
+  border-width: 10px;
+  border-style: solid;
+}
+
+#myloyal-app .p-15 {
+  padding: 15px;
+}
+
+#myloyal-app .pr-15 {
+  padding-right: 15px;
+}
+
+#myloyal-app .pl-15 {
+  padding-left: 15px;
+}
+
+#myloyal-app .pt-15 {
+  padding-top: 15px;
+}
+
+#myloyal-app .pb-15 {
+  padding-bottom: 15px;
+}
+
+#myloyal-app .m-15 {
+  margin: 15px;
+}
+
+#myloyal-app .mr-15 {
+  margin-right: 15px;
+}
+
+#myloyal-app .ml-15 {
+  margin-left: 15px;
+}
+
+#myloyal-app .mt-15 {
+  margin-top: 15px;
+}
+
+#myloyal-app .mb-15 {
+  margin-bottom: 15px;
+}
+
+#myloyal-app .br-15 {
+  border-radius: 15px;
+}
+
+#myloyal-app .bw-15 {
+  border-width: 15px;
+  border-style: solid;
+}
+
+#myloyal-app .p-20 {
+  padding: 20px;
+}
+
+#myloyal-app .pr-20 {
+  padding-right: 20px;
+}
+
+#myloyal-app .pl-20 {
+  padding-left: 20px;
+}
+
+#myloyal-app .pt-20 {
+  padding-top: 20px;
+}
+
+#myloyal-app .pb-20 {
+  padding-bottom: 20px;
+}
+
+#myloyal-app .m-20 {
+  margin: 20px;
+}
+
+#myloyal-app .mr-20 {
+  margin-right: 20px;
+}
+
+#myloyal-app .ml-20 {
+  margin-left: 20px;
+}
+
+#myloyal-app .mt-20 {
+  margin-top: 20px;
+}
+
+#myloyal-app .mb-20 {
+  margin-bottom: 20px;
+}
+
+#myloyal-app .br-20 {
+  border-radius: 20px;
+}
+
+#myloyal-app .bw-20 {
+  border-width: 20px;
+  border-style: solid;
+}
+
+#myloyal-app .p-30 {
+  padding: 30px;
+}
+
+#myloyal-app .pr-30 {
+  padding-right: 30px;
+}
+
+#myloyal-app .pl-30 {
+  padding-left: 30px;
+}
+
+#myloyal-app .pt-30 {
+  padding-top: 30px;
+}
+
+#myloyal-app .pb-30 {
+  padding-bottom: 30px;
+}
+
+#myloyal-app .m-30 {
+  margin: 30px;
+}
+
+#myloyal-app .mr-30 {
+  margin-right: 30px;
+}
+
+#myloyal-app .ml-30 {
+  margin-left: 30px;
+}
+
+#myloyal-app .mt-30 {
+  margin-top: 30px;
+}
+
+#myloyal-app .mb-30 {
+  margin-bottom: 30px;
+}
+
+#myloyal-app .br-30 {
+  border-radius: 30px;
+}
+
+#myloyal-app .bw-30 {
+  border-width: 30px;
+  border-style: solid;
+}
+
+#myloyal-app .p-50 {
+  padding: 50px;
+}
+
+#myloyal-app .pr-50 {
+  padding-right: 50px;
+}
+
+#myloyal-app .pl-50 {
+  padding-left: 50px;
+}
+
+#myloyal-app .pt-50 {
+  padding-top: 50px;
+}
+
+#myloyal-app .pb-50 {
+  padding-bottom: 50px;
+}
+
+#myloyal-app .m-50 {
+  margin: 50px;
+}
+
+#myloyal-app .mr-50 {
+  margin-right: 50px;
+}
+
+#myloyal-app .ml-50 {
+  margin-left: 50px;
+}
+
+#myloyal-app .mt-50 {
+  margin-top: 50px;
+}
+
+#myloyal-app .mb-50 {
+  margin-bottom: 50px;
+}
+
+#myloyal-app .br-50 {
+  border-radius: 50px;
+}
+
+#myloyal-app .bw-50 {
+  border-width: 50px;
+  border-style: solid;
+}
+
+#myloyal-app .b-clr-10B981 {
+  border-color: #10B981;
+}
+
+#myloyal-app .bg-10B981 {
+  background: #10B981;
+}
+
+#myloyal-app .clr-10B981 {
+  color: #10B981;
+}
+
+#myloyal-app .btn-10B981 {
+  background: #10B981;
+}
+
+#myloyal-app .b-clr-aaaaaa {
+  border-color: #aaaaaa;
+}
+
+#myloyal-app .bg-aaaaaa {
+  background: #aaaaaa;
+}
+
+#myloyal-app .clr-aaaaaa {
+  color: #aaaaaa;
+}
+
+#myloyal-app .btn-aaaaaa {
+  background: #aaaaaa;
+}
+
+#myloyal-app .b-clr-ffffff {
+  border-color: #ffffff;
+}
+
+#myloyal-app .bg-ffffff {
+  background: #ffffff;
+}
+
+#myloyal-app .clr-ffffff {
+  color: #ffffff;
+}
+
+#myloyal-app .btn-ffffff {
+  background: #ffffff;
+}
+
+#myloyal-app .b-clr-FE2424 {
+  border-color: #FE2424;
+}
+
+#myloyal-app .bg-FE2424 {
+  background: #FE2424;
+}
+
+#myloyal-app .clr-FE2424 {
+  color: #FE2424;
+}
+
+#myloyal-app .btn-FE2424 {
+  background: #FE2424;
+}
+
